@@ -7,7 +7,6 @@
 Automatic chlorophyll content estimation for sugarcane monitoring using PlanetScope satellite imagery. This tool converts multispectral satellite images into detailed chlorophyll maps with health status classification and area analysis.
 
 ![Demo Screenshot](docs/bg1.png)
-![Demo Screenshot](docs/bg2.png)
 
 ## 🌟 Features
 
