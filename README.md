@@ -293,7 +293,7 @@ If you use this tool in your research, please cite:
 
 - **Author**: pishapis
 - **Email**: hapisadi12@gmail.com
-- **GitHub**: [@yourusername](https://github.com/pishapis)
+- **GitHub**: [@pishapis](https://github.com/pishapis)
 
 ## 🔄 Updates & Changelog
 
